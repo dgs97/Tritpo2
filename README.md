@@ -5,7 +5,7 @@ ShopList - андроид программа для создания списк�
 
 [Папка с кодом](https://github.com/vladsenko1/Tritpo2/tree/master/src/main/java/com/amazonaws/mobile/samples/mynotes)
 
-[SRC](https://github.com/vladsenko1/Tritpo2/blob/master/srs.md)
+[SRC](https://github.com/vladsenko1/Tritpo2/blob/master/src.md)
 
 [Диаграммы последовательности](https://github.com/vladsenko1/Tritpo2/tree/master/Document/Sequence)
 
